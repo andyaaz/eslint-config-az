@@ -1,7 +1,7 @@
 {
   "name": "@az/eslint-config",
-  "version": "1.0.0",
-  "description": "",
+  "version": "0.0.1",
+  "description": "Andy's sharable eslint config for his projects",
   "main": "index.js",
   "author": "Andy An zheng.a@yahoo.com",
   "license": "ISC",
