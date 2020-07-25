@@ -44,7 +44,7 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "release:local": "standard-version",
-    "publish": "git push --follow-tags origin master && npm publish"
+    "release": "standard-version",
+    "release:remote": "standard-version && git push --follow-tags origin master"
   }
 }
