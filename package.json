@@ -10,7 +10,7 @@
     "url": "ssh://git@github.com/andyaaz/eslint-config-az"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
+    "registry": "https://registry.npmjs.org"
   },
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^3.7.0",
