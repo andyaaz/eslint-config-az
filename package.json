@@ -1,6 +1,6 @@
 {
   "name": "@aaaz/eslint-config",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "Andy's sharable eslint config for his projects",
   "main": "index.js",
   "author": "Andy An zheng.a@yahoo.com",
